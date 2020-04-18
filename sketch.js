@@ -1,7 +1,7 @@
 /*
 File Name: Sketch.js
 Author: Anthony Cucci
-Game: Cooking Master
+Game: Cooking Match
 Creation Date: 3/25/2020
 Date: 4/10/2020
 */
